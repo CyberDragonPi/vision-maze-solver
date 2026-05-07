@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints (if any appear later)
+.ipynb_checkpoints/
+
+# Compiled or temporary files
+*.log
+
+# Images or datasets (OPTIONAL - keep only if you want GitHub size clean)
+# If dataset is large, consider excluding maps/ entirely or only keeping samples
+
+# PowerPoint / presentations (optional - usually better NOT to include in repo)
+*.pptx
