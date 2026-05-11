@@ -44,7 +44,7 @@ A real-time computer vision system that detects, solves, and visualizes maze pat
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
@@ -54,21 +54,21 @@ A real-time computer vision system that detects, solves, and visualizes maze pat
 ---
 
 ## Project Structure
-project/
-├── code/
-│ ├── project.py
-│ ├── convert_maps_for_print.py
-│ └── util/
-│ ├── camera_controller.py
-│ ├── maze_solver.py
-│ ├── image_preprocessor.py
-│ └── path_visualizer.py
-├── examples/
-│ ├── labirinto.jpg
-│ ├── maze_output.avi
-│ └── solved_maze.jpg
-└── maps/
-├── Day1_2.png
-├── Day2_1.png
-├── Day2_3.png
-└── Day3_1.png
+project/  
+├── code/  
+│ ├── project.py  
+│ ├── convert_maps_for_print.py  
+│ └── util/  
+│ ├── camera_controller.py  
+│ ├── maze_solver.py  
+│ ├── image_preprocessor.py  
+│ └── path_visualizer.py  
+├── examples/  
+│ ├── labirinto.jpg  
+│ ├── maze_output.avi  
+│ └── solved_maze.jpg  
+└── maps/  
+├── Day1_2.png  
+├── Day2_1.png  
+├── Day2_3.png  
+└── Day3_1.png  
