@@ -61,9 +61,9 @@ while True:
     elif key == ord('a'):
         index = (index - 1) % len(image_paths)
     elif key == ord('s'):
-        cv2.imwrite(f"maps/result_{index}.png", result)
+        cv2.imwrite(f"../maps/result_{index}.png", result)
         inverted = 255 - mask
-        cv2.imwrite(f"maps/inverted_{index}.png", inverted)
+        cv2.imwrite(f"../maps/inverted_{index}.png", inverted)
 
         print("Saved!")
 

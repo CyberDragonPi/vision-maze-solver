@@ -24,6 +24,16 @@ Thumbs.db
 
 # Images or datasets (OPTIONAL - keep only if you want GitHub size clean)
 # If dataset is large, consider excluding maps/ entirely or only keeping samples
+# JSON maps
+maps/*.json
+
+# Generated result images
+maps/result*.png
+maps/inverted*.png
+maps/day*.json
+maps/world*.wbt
+maps/.world*.wbproj
 
 # PowerPoint / presentations (optional - usually better NOT to include in repo)
 *.pptx
+
